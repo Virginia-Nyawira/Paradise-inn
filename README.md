@@ -1,6 +1,10 @@
 # Hotel Ecommerce UI
 
-Screenshots
+Screenshots:
+![paradise1](https://user-images.githubusercontent.com/40716176/114873368-e3de0180-9e03-11eb-8021-ec37325645c8.jpg)
+![paradise2](https://user-images.githubusercontent.com/40716176/114873403-ec363c80-9e03-11eb-89c4-99292010b070.jpg)
+![paradise3](https://user-images.githubusercontent.com/40716176/114873422-f22c1d80-9e03-11eb-8b7f-f9a35ebf2807.jpg)
+![paradise4](https://user-images.githubusercontent.com/40716176/114873481-feb07600-9e03-11eb-930c-a37fae965ead.jpg)
 
 ## Getting Started
 
