@@ -1,6 +1,6 @@
-# paradse_hotel
+# Hotel Ecommerce UI
 
-A new Flutter application.
+Screenshots
 
 ## Getting Started
 
